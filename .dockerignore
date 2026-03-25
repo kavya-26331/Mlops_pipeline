@@ -1,0 +1,18 @@
+**/.git
+**/.gitignore
+**/venv*/
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.log
+**/*.zip
+**/sample_data/
+# **/data.csv   <-- removed
+**/TODO.md
+**/*test*.json
+**/*test*.log
+**/*.fixed
+**/__pycache__/
+**/run.log
+# **/*.csv      <-- removed
+**/.vscode/

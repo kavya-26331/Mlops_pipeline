@@ -1,0 +1,76 @@
+2026-03-25 23:47:43,008 - INFO - Job started
+2026-03-25 23:47:43,009 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 23:47:43,019 - INFO - Rows loaded: 10000
+2026-03-25 23:47:43,022 - INFO - Processed rows: 9996, signal_rate: 0.5032, positive: 5030, negative: 4966
+2026-03-25 23:47:43,023 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.5032, 'latency_ms': 13, 'seed': 42, 'status': 'success'}
+2026-03-25 23:47:43,023 - INFO - Job completed
+2026-03-25 23:50:11,150 - INFO - Job started
+2026-03-25 23:50:11,150 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 23:50:11,160 - INFO - Rows loaded: 10000
+2026-03-25 23:50:11,164 - INFO - Processed rows: 9996, signal_rate: 0.5032, positive: 5030, negative: 4966
+2026-03-25 23:50:11,165 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.5032, 'latency_ms': 13, 'seed': 42, 'status': 'success'}
+2026-03-25 23:50:11,165 - INFO - Job completed
+2026-03-25 23:50:47,454 - INFO - Job started
+2026-03-25 23:50:47,455 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 23:50:47,464 - INFO - Rows loaded: 10000
+2026-03-25 23:50:47,468 - INFO - Processed rows: 9996, signal_rate: 0.5032, positive: 5030, negative: 4966
+2026-03-25 23:50:47,468 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.5032, 'latency_ms': 13, 'seed': 42, 'status': 'success'}
+2026-03-25 23:50:47,468 - INFO - Job completed
+2026-03-25 23:51:38,648 - INFO - Job started
+2026-03-25 23:51:38,649 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 23:51:38,659 - INFO - Rows loaded: 10000
+2026-03-25 23:51:38,663 - INFO - Processed rows: 9996, signal_rate: 0.5032, positive: 5030, negative: 4966
+2026-03-25 23:51:38,663 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.5032, 'latency_ms': 13, 'seed': 42, 'status': 'success'}
+2026-03-25 23:51:38,663 - INFO - Job completed
+2026-03-25 23:52:25,715 - INFO - Job started
+2026-03-25 23:52:25,715 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 23:52:25,724 - INFO - Rows loaded: 10000
+2026-03-25 23:52:25,728 - INFO - Processed rows: 9996, signal_rate: 0.5032, positive: 5030, negative: 4966
+2026-03-25 23:52:25,728 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.5032, 'latency_ms': 12, 'seed': 42, 'status': 'success'}
+2026-03-25 23:52:25,728 - INFO - Job completed
+2026-03-26 00:13:24,614 - INFO - Job started
+2026-03-26 00:13:24,616 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 00:13:24,652 - INFO - Rows loaded: 10000
+2026-03-26 00:13:24,668 - INFO - Job completed
+2026-03-26 00:13:46,142 - INFO - Job started
+2026-03-26 00:13:46,143 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 00:13:46,143 - ERROR - Error occurred
+Traceback (most recent call last):
+  File "C:\Users\dilee\Downloads\mlops_project\run.py", line 56, in main
+    raise FileNotFoundError("Input file not found")
+FileNotFoundError: Input file not found
+2026-03-26 00:29:19,093 - INFO - Job started
+2026-03-26 00:29:19,096 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 00:29:19,129 - INFO - Rows loaded: 10000
+2026-03-26 00:29:19,185 - INFO - Job completed
+2026-03-26 00:29:35,167 - INFO - Job started
+2026-03-26 00:29:35,167 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 00:29:35,168 - ERROR - Error occurred
+Traceback (most recent call last):
+  File "C:\Users\dilee\Downloads\mlops_project\run.py", line 56, in main
+    raise FileNotFoundError("Input file not found")
+FileNotFoundError: Input file not found
+2026-03-26 01:48:56,389 - INFO - Job started
+2026-03-26 01:48:56,392 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 01:48:56,416 - INFO - Rows loaded: 10000
+2026-03-26 01:48:56,434 - INFO - Job completed
+2026-03-26 01:49:45,545 - INFO - Job started
+2026-03-26 01:49:45,545 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 01:49:45,561 - INFO - Rows loaded: 10000
+2026-03-26 01:49:45,566 - INFO - Job completed
+2026-03-26 01:50:32,262 - INFO - Job started
+2026-03-26 01:50:32,263 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 01:50:32,272 - INFO - Rows loaded: 10000
+2026-03-26 01:50:32,276 - INFO - Job completed
+2026-03-26 01:55:51,460 - INFO - Job started
+2026-03-26 01:55:51,461 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 01:55:51,475 - INFO - Rows loaded: 10000
+2026-03-26 01:55:51,482 - INFO - Job completed
+2026-03-26 02:23:29,018 - INFO - Job started
+2026-03-26 02:23:29,026 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 02:23:29,062 - INFO - Rows loaded: 10000
+2026-03-26 02:23:29,077 - INFO - Job completed
+2026-03-26 02:25:01,425 - INFO - Job started
+2026-03-26 02:25:01,427 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-26 02:25:01,444 - INFO - Rows loaded: 10000
+2026-03-26 02:25:01,453 - INFO - Job completed

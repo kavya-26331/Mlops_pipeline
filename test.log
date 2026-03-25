@@ -1,0 +1,6 @@
+2026-03-25 21:16:02,384 - INFO - Job started
+2026-03-25 21:16:02,388 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 21:16:02,444 - INFO - Rows loaded: 10000
+2026-03-25 21:16:02,472 - INFO - Processed rows: 9996
+2026-03-25 21:16:02,472 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': 0.5032, 'latency_ms': 85, 'seed': 42, 'status': 'success'}
+2026-03-25 21:16:02,473 - INFO - Job completed
